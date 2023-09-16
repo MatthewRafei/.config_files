@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/oddstap/Pictures/Wallpaper/arch_btw_wall2.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1c0124",
+        "foreground": "#a3dfee",
+        "cursor": "#a3dfee"
+    },
+    "colors": {
+        "color0": "#1c0124",
+        "color1": "#5D5BAA",
+        "color2": "#236ACF",
+        "color3": "#A45B9B",
+        "color4": "#B155B3",
+        "color5": "#2B97E1",
+        "color6": "#5FA1DF",
+        "color7": "#a3dfee",
+        "color8": "#729ca6",
+        "color9": "#5D5BAA",
+        "color10": "#236ACF",
+        "color11": "#A45B9B",
+        "color12": "#B155B3",
+        "color13": "#2B97E1",
+        "color14": "#5FA1DF",
+        "color15": "#a3dfee"
+    }
+}

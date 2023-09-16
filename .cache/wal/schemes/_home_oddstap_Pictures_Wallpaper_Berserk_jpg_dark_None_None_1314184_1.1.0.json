@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/oddstap/Pictures/Wallpaper/Berserk.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c1045",
+        "foreground": "#bed2e0",
+        "cursor": "#bed2e0"
+    },
+    "colors": {
+        "color0": "#0c1045",
+        "color1": "#2D54A8",
+        "color2": "#4A4997",
+        "color3": "#515CA4",
+        "color4": "#8C6998",
+        "color5": "#619FCF",
+        "color6": "#73C0DF",
+        "color7": "#bed2e0",
+        "color8": "#85939c",
+        "color9": "#2D54A8",
+        "color10": "#4A4997",
+        "color11": "#515CA4",
+        "color12": "#8C6998",
+        "color13": "#619FCF",
+        "color14": "#73C0DF",
+        "color15": "#bed2e0"
+    }
+}

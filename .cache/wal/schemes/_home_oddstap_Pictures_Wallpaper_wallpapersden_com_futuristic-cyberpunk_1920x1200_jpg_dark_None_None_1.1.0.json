@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/oddstap/Pictures/Wallpaper/wallpapersden.com_futuristic-cyberpunk_1920x1200.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#16071b",
+        "foreground": "#78bfdb",
+        "cursor": "#78bfdb"
+    },
+    "colors": {
+        "color0": "#16071b",
+        "color1": "#F41765",
+        "color2": "#0634A1",
+        "color3": "#0662AF",
+        "color4": "#053DC3",
+        "color5": "#0563DB",
+        "color6": "#D21389",
+        "color7": "#78bfdb",
+        "color8": "#548599",
+        "color9": "#F41765",
+        "color10": "#0634A1",
+        "color11": "#0662AF",
+        "color12": "#053DC3",
+        "color13": "#0563DB",
+        "color14": "#D21389",
+        "color15": "#78bfdb"
+    }
+}

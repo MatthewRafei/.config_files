@@ -1,0 +1,21 @@
+set $wallpaper /home/oddstap/Pictures/Wallpaper/1604046084199.jpg
+
+set $background #090909
+set $foreground #f4f4f4
+
+set $color0 #090909
+set $color1 #909090
+set $color2 #B1B1B1
+set $color3 #C8C8C8
+set $color4 #D7D7D7
+set $color5 #E8E8E8
+set $color6 #F4F4F4
+set $color7 #f4f4f4
+set $color8 #aaaaaa
+set $color9 #909090
+set $color10 #B1B1B1
+set $color11 #C8C8C8
+set $color12 #D7D7D7
+set $color13 #E8E8E8
+set $color14 #F4F4F4
+set $color15 #f4f4f4

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/oddstap/Downloads/8351171.gif",
+    "alpha": "100",
+    "special": {
+        "background": "#3e1f6f",
+        "foreground": "#daecf6",
+        "cursor": "#daecf6"
+    },
+    "colors": {
+        "color0": "#3e1f6f",
+        "color1": "#9C9DE3",
+        "color2": "#86A8F3",
+        "color3": "#DFBAE3",
+        "color4": "#AED3FB",
+        "color5": "#AFD4FB",
+        "color6": "#E5CAEA",
+        "color7": "#daecf6",
+        "color8": "#98a5ac",
+        "color9": "#9C9DE3",
+        "color10": "#86A8F3",
+        "color11": "#DFBAE3",
+        "color12": "#AED3FB",
+        "color13": "#AFD4FB",
+        "color14": "#E5CAEA",
+        "color15": "#daecf6"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/oddstap/Pictures/Wallpaper/cyberpunk-neon-city-s-1-1920x1080.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0a1f",
+        "foreground": "#ddcee7",
+        "cursor": "#ddcee7"
+    },
+    "colors": {
+        "color0": "#0e0a1f",
+        "color1": "#2952A6",
+        "color2": "#5C56A5",
+        "color3": "#4558B3",
+        "color4": "#A169BE",
+        "color5": "#5993D6",
+        "color6": "#A19CDD",
+        "color7": "#ddcee7",
+        "color8": "#9a90a1",
+        "color9": "#2952A6",
+        "color10": "#5C56A5",
+        "color11": "#4558B3",
+        "color12": "#A169BE",
+        "color13": "#5993D6",
+        "color14": "#A19CDD",
+        "color15": "#ddcee7"
+    }
+}

@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/oddstap/Pictures/Wallpaper/1604046084199.jpg"
+let background = "#090909"
+let foreground = "#f4f4f4"
+let cursor     = "#f4f4f4"
+
+" Colors
+let color0  = "#090909"
+let color1  = "#909090"
+let color2  = "#B1B1B1"
+let color3  = "#C8C8C8"
+let color4  = "#D7D7D7"
+let color5  = "#E8E8E8"
+let color6  = "#F4F4F4"
+let color7  = "#f4f4f4"
+let color8  = "#aaaaaa"
+let color9  = "#909090"
+let color10 = "#B1B1B1"
+let color11 = "#C8C8C8"
+let color12 = "#D7D7D7"
+let color13 = "#E8E8E8"
+let color14 = "#F4F4F4"
+let color15 = "#f4f4f4"

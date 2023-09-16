@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/oddstap/Pictures/Wallpaper/wallhaven-3967xy.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0306",
+        "foreground": "#cdacbd",
+        "cursor": "#cdacbd"
+    },
+    "colors": {
+        "color0": "#0d0306",
+        "color1": "#D01337",
+        "color2": "#EC173D",
+        "color3": "#D72637",
+        "color4": "#F91643",
+        "color5": "#EB2D5C",
+        "color6": "#8E606F",
+        "color7": "#cdacbd",
+        "color8": "#8f7884",
+        "color9": "#D01337",
+        "color10": "#EC173D",
+        "color11": "#D72637",
+        "color12": "#F91643",
+        "color13": "#EB2D5C",
+        "color14": "#8E606F",
+        "color15": "#cdacbd"
+    }
+}

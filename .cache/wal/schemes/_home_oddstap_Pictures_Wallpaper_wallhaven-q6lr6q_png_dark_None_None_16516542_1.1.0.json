@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/oddstap/Pictures/Wallpaper/wallhaven-q6lr6q.png",
+    "alpha": "100",
+    "special": {
+        "background": "#090B38",
+        "foreground": "#9fc0e8",
+        "cursor": "#9fc0e8"
+    },
+    "colors": {
+        "color0": "#090B38",
+        "color1": "#1E53D9",
+        "color2": "#F027A1",
+        "color3": "#F22DB0",
+        "color4": "#F546B2",
+        "color5": "#A62CCA",
+        "color6": "#F230C5",
+        "color7": "#9fc0e8",
+        "color8": "#6f86a2",
+        "color9": "#1E53D9",
+        "color10": "#F027A1",
+        "color11": "#F22DB0",
+        "color12": "#F546B2",
+        "color13": "#A62CCA",
+        "color14": "#F230C5",
+        "color15": "#9fc0e8"
+    }
+}

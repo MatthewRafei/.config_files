@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/oddstap/Pictures/Wallpaper/wallhaven-39wgv3.png",
+    "alpha": "100",
+    "special": {
+        "background": "#020308",
+        "foreground": "#d8dbbb",
+        "cursor": "#d8dbbb"
+    },
+    "colors": {
+        "color0": "#020308",
+        "color1": "#CD3E45",
+        "color2": "#D6B568",
+        "color3": "#264B95",
+        "color4": "#0357A0",
+        "color5": "#16ADBA",
+        "color6": "#BEC38C",
+        "color7": "#d8dbbb",
+        "color8": "#979982",
+        "color9": "#CD3E45",
+        "color10": "#D6B568",
+        "color11": "#264B95",
+        "color12": "#0357A0",
+        "color13": "#16ADBA",
+        "color14": "#BEC38C",
+        "color15": "#d8dbbb"
+    }
+}
